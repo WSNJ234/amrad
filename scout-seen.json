@@ -18,6 +18,7 @@
  "analogdevicesinc/plutosdr-fw",
  "bemasher/rtlamr",
  "chuot/rdio-scanner",
+ "cjcliffe/CubicSDR",
  "cpaczek/skylight",
  "daniestevez/gr-satellites",
  "dawsonjon/PicoRX",
