@@ -63,9 +63,11 @@
  "sgoudelis/ground-station",
  "shajen/rtl-sdr-scanner-cpp",
  "sm0svx/svxlink",
+ "srsran/srsRAN_4G",
  "vicliu624/trail-mate",
  "wiedehopf/readsb",
  "wiedehopf/tar1090",
  "windytan/redsea",
- "wmbusmeters/wmbusmeters"
+ "wmbusmeters/wmbusmeters",
+ "zibous/ha-watermeter"
 ]
