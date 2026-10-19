@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12",
+ "generated": "2026-10-19",
  "categories": [
   {
    "title": "Program your radio",
@@ -9,15 +9,15 @@
      "repo": "kk7ds/chirp",
      "url": "https://github.com/kk7ds/chirp",
      "desc": "Free programming software for hundreds of radios. The CSVs on this site load straight into it.",
-     "stars": 592,
-     "pushed": "2026-10-10",
+     "stars": 597,
+     "pushed": "2026-10-18",
      "archived": false
     },
     {
      "repo": "hmatuschek/qdmr",
      "url": "https://github.com/hmatuschek/qdmr",
      "desc": "Codeplug programming for DMR radios. The CHIRP of digital voice.",
-     "stars": 356,
+     "stars": 359,
      "pushed": "2026-09-13",
      "archived": false
     }
@@ -31,24 +31,24 @@
      "repo": "Hamlib/Hamlib",
      "url": "https://github.com/Hamlib/Hamlib",
      "desc": "The rig-control library working behind most logging and digital-mode software.",
-     "stars": 851,
-     "pushed": "2026-10-11",
+     "stars": 854,
+     "pushed": "2026-10-19",
      "archived": false
     },
     {
      "repo": "wavelog/wavelog",
      "url": "https://github.com/wavelog/wavelog",
      "desc": "Self-hosted web logbook, the actively developed successor to Cloudlog.",
-     "stars": 560,
-     "pushed": "2026-10-12",
+     "stars": 565,
+     "pushed": "2026-10-17",
      "archived": false
     },
     {
      "repo": "foldynl/QLog",
      "url": "https://github.com/foldynl/QLog",
      "desc": "Fast desktop logger with rig control, maps, and cluster spots.",
-     "stars": 358,
-     "pushed": "2026-10-12",
+     "stars": 362,
+     "pushed": "2026-10-18",
      "archived": false
     },
     {
@@ -69,16 +69,16 @@
      "repo": "meshcore-dev/MeshCore",
      "url": "https://github.com/meshcore-dev/MeshCore",
      "desc": "The LoRa mesh this site favors: routed through designated repeaters, with room servers for group chat.",
-     "stars": 3846,
-     "pushed": "2026-10-11",
+     "stars": 3892,
+     "pushed": "2026-10-18",
      "archived": false
     },
     {
      "repo": "meshtastic/firmware",
      "url": "https://github.com/meshtastic/firmware",
      "desc": "The biggest LoRa mesh community. Flood-routed, huge hardware support.",
-     "stars": 8412,
-     "pushed": "2026-10-12",
+     "stars": 8448,
+     "pushed": "2026-10-19",
      "archived": false
     },
     {
@@ -86,14 +86,14 @@
      "url": "https://github.com/aredn/aredn",
      "desc": "Ham-licensed high-bandwidth IP mesh firmware for off-the-shelf WiFi gear.",
      "stars": 264,
-     "pushed": "2026-10-11",
+     "pushed": "2026-10-13",
      "archived": false
     },
     {
      "repo": "markqvist/Reticulum",
      "url": "https://github.com/markqvist/Reticulum",
      "desc": "A cryptographic network stack that runs over LoRa, packet radio, or any byte pipe.",
-     "stars": 7520,
+     "stars": 7564,
      "pushed": "2026-09-30",
      "archived": false
     }
@@ -107,7 +107,7 @@
      "repo": "AlexandreRouma/SDRPlusPlus",
      "url": "https://github.com/AlexandreRouma/SDRPlusPlus",
      "desc": "Fast, clean, cross-platform SDR receiver. A great first stop for a new dongle.",
-     "stars": 6429,
+     "stars": 6451,
      "pushed": "2026-07-05",
      "archived": false
     },
@@ -115,23 +115,23 @@
      "repo": "f4exb/sdrangel",
      "url": "https://github.com/f4exb/sdrangel",
      "desc": "The SDR swiss army knife: transmit and receive, dozens of demodulators.",
-     "stars": 4104,
-     "pushed": "2026-10-12",
+     "stars": 4123,
+     "pushed": "2026-10-18",
      "archived": false
     },
     {
      "repo": "gqrx-sdr/gqrx",
      "url": "https://github.com/gqrx-sdr/gqrx",
      "desc": "The classic Linux and Mac SDR receiver, still going strong.",
-     "stars": 3704,
-     "pushed": "2026-10-05",
+     "stars": 3709,
+     "pushed": "2026-10-17",
      "archived": false
     },
     {
      "repo": "SatDump/SatDump",
      "url": "https://github.com/SatDump/SatDump",
      "desc": "Decode weather satellites and a whole zoo of downlinks, pictures included.",
-     "stars": 2319,
+     "stars": 2343,
      "pushed": "2026-10-08",
      "archived": false
     },
@@ -139,16 +139,16 @@
      "repo": "ka9q/ka9q-radio",
      "url": "https://github.com/ka9q/ka9q-radio",
      "desc": "Hundreds of simultaneous channels from one SDR, from Phil Karn KA9Q.",
-     "stars": 351,
-     "pushed": "2026-10-12",
+     "stars": 353,
+     "pushed": "2026-10-19",
      "archived": false
     },
     {
      "repo": "luarvique/openwebrx",
      "url": "https://github.com/luarvique/openwebrx",
      "desc": "OpenWebRX+, a web SDR receiver your whole club can tune at once.",
-     "stars": 641,
-     "pushed": "2026-10-07",
+     "stars": 645,
+     "pushed": "2026-10-17",
      "archived": false
     }
    ]
@@ -161,8 +161,8 @@
      "repo": "wb2osz/direwolf",
      "url": "https://github.com/wb2osz/direwolf",
      "desc": "The software TNC behind most APRS igates and packet setups.",
-     "stars": 2063,
-     "pushed": "2026-10-11",
+     "stars": 2064,
+     "pushed": "2026-10-16",
      "archived": false
     },
     {
@@ -170,7 +170,7 @@
      "url": "https://github.com/g4klx/MMDVM-Host",
      "desc": "The software heart of most digital-voice hotspots.",
      "stars": 452,
-     "pushed": "2026-10-10",
+     "pushed": "2026-10-18",
      "archived": false
     }
    ]
@@ -183,23 +183,23 @@
      "repo": "merbanan/rtl_433",
      "url": "https://github.com/merbanan/rtl_433",
      "desc": "Decode the 433 and 915 MHz chatter around you: weather stations, tire sensors, doorbells.",
-     "stars": 7858,
-     "pushed": "2026-10-11",
+     "stars": 7890,
+     "pushed": "2026-10-19",
      "archived": false
     },
     {
      "repo": "flightaware/dump1090",
      "url": "https://github.com/flightaware/dump1090",
      "desc": "Track the aircraft over your house via ADS-B with a $30 dongle.",
-     "stars": 1147,
-     "pushed": "2026-10-12",
+     "stars": 1148,
+     "pushed": "2026-10-19",
      "archived": false
     },
     {
      "repo": "csete/gpredict",
      "url": "https://github.com/csete/gpredict",
      "desc": "Real-time satellite tracking and pass prediction for working the birds.",
-     "stars": 1189,
+     "stars": 1195,
      "pushed": "2026-10-11",
      "archived": false
     }
